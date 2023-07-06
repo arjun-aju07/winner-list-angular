@@ -1,0 +1,19 @@
+/* SMALL SIZED BUTTON */
+.base-button--small {
+    padding: 8px 10px;
+    border-radius: 16px;
+    background: #fff;
+    border: 2px solid #1ecd97;
+    color: #1ecd97;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.base-button:hover,
+.base-button:focus {
+    outline: none;
+    color: white;
+    background: #1ecd97;
+}

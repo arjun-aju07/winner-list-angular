@@ -1,0 +1,10 @@
+.field__label {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.field__input {
+    height: 28px;
+}
